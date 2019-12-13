@@ -1,0 +1,33 @@
+https://www.youtube.com/watch?v=Ke90Tje7VS0
+https://babeljs.io/en/repl
+React Fundamentals.
+Build Reusable Components.
+Render Data.
+Handle Events.
+Debug your application.
+
+Component has following things below
+Class
+state
+render
+
+class Tweet {
+state = {};
+render(){
+}
+}
+ State is used for data that we want to display when the component is rendered.
+Render for describing User Interface.
+
+React Element has a Virtual DOM as compared to Real DOM in javascript . It is light weight.
+Output of render function is a React Element.
+
+React is about state changes.
+Visual Studio is light weight and cross platform editor.
+
+Prettier - Code formatter
+Simple React Snippets
+Babel for compiling Javascript.
+Webpack module bundler.
+JSX Javascript XML.
+https://babeljs.io/en/repl
